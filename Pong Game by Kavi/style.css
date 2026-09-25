@@ -65,3 +65,26 @@ button {
 button:hover {
   background: #ffffff;
 }
+
+.controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  margin-top: 10px;
+}
+
+.difficulty {
+  display: flex;
+  gap: 10px;
+}
+
+.diff-btn {
+  background: #29404d;
+  color: #b8c7d1;
+}
+
+.diff-btn.active {
+  background: #00d9ff;
+  color: #071018;
+}
