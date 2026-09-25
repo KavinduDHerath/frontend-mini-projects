@@ -18,10 +18,17 @@
     <canvas id="gameCanvas" width="900" height="500"></canvas>
 
     <p class="instructions">
-      Move with your mouse 🖱️ or the <strong>↑</strong> and <strong>↓</strong> arrow keys. ⌨️
+      Move with your mouse 🖱️, touch 📱, or the <strong>↑</strong> and <strong>↓</strong> arrow keys. ⌨️
     </p>
 
-    <button id="restartButton">Restart Game 🔄️</button>
+    <div class="controls">
+      <div class="difficulty">
+        <button class="diff-btn" data-speed="3">Easy</button>
+        <button class="diff-btn active" data-speed="4.5">Medium</button>
+        <button class="diff-btn" data-speed="7">Hard</button>
+      </div>
+      <button id="restartButton">Restart Game 🔄️</button>
+    </div>
   </main>
 
   <script src="script.js"></script>
