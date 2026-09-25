@@ -3,8 +3,8 @@
 A collection of lightweight frontend builds, static web pages, and UI/UX experiments. 
 
 ### 📂 Projects Included
-*   **Fun Cook Web Site:** A static, responsive website layout exploring semantic HTML and CSS styling.
-*   **Pong Game by Kavi** A simple pong game.
+*   **👨‍🍳 Fun Cook Web Site:** A static, responsive website layout exploring semantic HTML and CSS styling.
+*   ** ⚽ Pong Game by Kavi** A simple pong game.
 
 ### 🛠️ Tech Stack
 *   HTML5
